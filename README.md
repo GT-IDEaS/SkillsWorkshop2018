@@ -5,9 +5,6 @@
 
 ---
 
-IDEaS Summer Skills Workshop 2017
-=================================
-
 Welcome to the Insitute for Data Engineering and Science (IDEaS) Summer Skills
 Workshop 2018!
 
