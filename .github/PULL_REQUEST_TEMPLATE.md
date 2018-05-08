@@ -7,6 +7,3 @@ Provide your weekly journal entry here.
 ## Questions
 - [ ] Question1
 
-## Status
-- [ ] Ready for review & merge
-
