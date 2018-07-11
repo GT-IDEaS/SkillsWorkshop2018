@@ -99,3 +99,15 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# LaTeX
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.tex
+*.toc
+_minted-*
+*.swp
