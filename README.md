@@ -42,8 +42,14 @@ fork](https://guides.github.com/activities/forking/#clone) to your local
 machine.  All contributions to this repository, including submission of weekly
 out-of-class projects, should be within a [pull
 request](https://guides.github.com/activities/forking/#making-a-pull-request)
-opened from your fork to this repository upstream.  Then, the TAs and workshop
-organizers can provide feedback within pull request reviews each week.
+opened from your fork to this repository upstream.  When opening your pull
+request, please include in the PR description a brief "journal entry" for the
+week describing some challenges you faced when completing the assignment and
+how you overcame them, or any thoughts you had while working on the problems.
+This is also your opportunity to provide some brief feedback regarding the
+assignment and/or the hands-on activity, and how effective it was at
+introducing and allowing you to practice the week's topic. Then, the TAs and
+workshop organizers can provide feedback within pull request reviews each week.
 
 Weekly materials are contained within directories in the top-level of this
 repository named `Week0X` for the `X`th week of the workshop, with specific
