@@ -101,6 +101,7 @@ ENV/
 .mypy_cache/
 
 # LaTeX
+*/notes/*
 *.aux
 *.log
 *.nav
