@@ -11,11 +11,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="byucel_01.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="byucel_01.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/byucel_01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="byucel_02.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/byucel_02.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -33,12 +42,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/byucel_01.py" />
+        <option value="$PROJECT_DIR$/byucel_02.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="width" value="977" />
+    <option name="width" value="1080" />
     <option name="height" value="1050" />
   </component>
   <component name="ProjectView">
@@ -75,7 +85,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.byucel_02">
     <configuration name="byucel_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Problem01" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,8 +104,31 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="byucel_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Problem01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\BERKAY YUCEL\AppData\Local\Programs\Python\Python36-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/byucel_02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.byucel_01" />
+      <item itemvalue="Python.byucel_02" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.byucel_02" />
         <item itemvalue="Python.byucel_01" />
       </list>
     </recent_temporary>
@@ -104,9 +137,9 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="781" height="840" extended-state="0" />
+    <frame x="-6" y="0" width="864" height="840" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.5080645" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.45707375" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3292517" />
@@ -128,8 +161,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/byucel_01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/byucel_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
