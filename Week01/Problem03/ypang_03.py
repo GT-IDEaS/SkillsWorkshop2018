@@ -1,32 +1,45 @@
 import numpy as np
 
-def buildPrimeList(maximum):
-    primes = [2]
+target = 600851475143
+#target = 13195 
 
-    for i in range(3,maximum+1,2):  # even numbers can be skipped
-        isPrime = True
-        for p in primes[1:]:
-            if(i%p == 0):
-                isPrime = False
-                break
+#INT
+primes = np.empty(1000,dtype=int)
+counters = np.empty(1000,dtype=int)
+n = 0
+i = 3
 
-        if(isPrime):
-            primes.append(i)
+print("TARGET = ", target)
 
-    return primes
+#manual check 2
+while(target % 2 == 0):
+    target /= 2;
+
+print("Try dividing by: 2, remainder =",target)
 
 
-""" MAIN """
-target = 13195
+while i*i <= target:
+    for j in range(n):
+        counters[j] += 2
+        if(counters[j] >= primes[j]):
+            counters[j] -= primes[j]
 
-myPrimes = buildPrimeList(target)
-print(myPrimes)
+# if none of the counters are zero, it is a prime
+    if not any(counters[:n] == 0):
+        primes[n] = i
+        counters[n] = 0
+        n += 1
 
-ans = 1    
-for i in reversed(myPrimes):
-    if(target % i == 0):
-        ans = i
-        break
+        while(target % i == 0):
+            target //= i;
 
-print(i)
+        print("Try dividing by:",i, ", remainder =",target)
+
+    i += 2
+        
+
+if(target == 1):
+    print("LARGEST PRIME FACTOR = ", primes[n-1])
+else:
+    print("LARGEST PRIME FACTOR = ", target)
 
