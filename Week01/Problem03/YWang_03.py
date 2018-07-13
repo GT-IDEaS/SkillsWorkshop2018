@@ -8,7 +8,7 @@ NUM = 600851475143
 i = 2
 while i*i < NUM:
   while NUM%i == 0:
-    NUM = NUM / i
+    NUM = NUM // i
   i = i + 1
 
 # print results
