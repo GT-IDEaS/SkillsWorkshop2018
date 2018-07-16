@@ -1,0 +1,18 @@
+Problem 02: Even Fibonacci Numbers
+==================================
+
+x1 = 1
+x2 = 1
+xNext = 0
+sum = 0
+while xNext < 4000000:
+    xNext = x1 + x2
+    x2 = x1
+    x1 = xNext
+    if xNext % 2 == 0:
+        if xNext < 4000000:
+            sum += xNext
+        else:
+            break
+print(sum)
+
