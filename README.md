@@ -3,6 +3,7 @@
 <img src="media/ideas-workshop2018.png" alt="IDEaS banner logo" height=300> <br>
 <a href="https://mybinder.org/v2/gh/GT-IDEaS/SkillsWorkshop2018/master"><img src="https://mybinder.org/badge.svg"/></a>
 </p>
+
 ---
 
 ### Overview
