@@ -102,6 +102,7 @@ ENV/
 
 # LaTeX
 */notes/*
+*/lecture/*
 *.aux
 *.log
 *.nav
