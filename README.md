@@ -1,6 +1,7 @@
 <p align="center"
 <br>
 <img src="media/ideas-workshop2018.png" alt="IDEaS banner logo" height=300> <br>
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GT-IDEaS/SkillsWorkshop2018/master)
 </p>
 
 ---
