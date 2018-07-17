@@ -2,14 +2,7 @@
 import numpy as np
 
 
-def isPrime(x):
-    counter=0
-    i=2
-    while i<np.sqrt(x) and counter==0:
-        if x%i == 0:
-            counter=counter+1
-        i = i+1
-    return counter==0
+
 
 
 
