@@ -1,5 +1,5 @@
-Problem 01: Fitting and Plotting
-================================
+Week 02 Assignment: Fitting and Plotting
+========================================
 
 Write a python program that uses the `x, y` data below to complete the tasks in
 parts 1-6 below. Once you have completed these parts, submit a pull request
