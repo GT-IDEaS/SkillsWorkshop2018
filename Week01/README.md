@@ -22,4 +22,11 @@ John Doe's solution to Problem 01), and placed inside each of the `Problem0x`
 subdirectories for this week's assignment. Also, don't forget to include your
 journal entry in the pull request description! 
 
+### Assignment Deadline
+
+Week01 assignments will be "due" before class on Monday, July 16th.  Notice the
+quotation marks surrounding "due"...this isn't _really_ a due date, but we ask
+that all Week01 pull requests are submitted before this time to ensure that we
+can all keep moving forward in the workhsop.
+
 
