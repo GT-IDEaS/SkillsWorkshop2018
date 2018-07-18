@@ -4,7 +4,8 @@ Week 02 Assignment: Fitting and Plotting
 Write a python program that uses the `x, y` data below to complete the tasks in
 parts 1-6 below. Once you have completed these parts, submit a pull request
 with your script and figure using the same naming convention as last week:
-`firstinitiallastname_01.py` and `firstinitiallastname_01.png`.  
+`firstinitiallastname_01.py` (or `.ipynb` if you're using a Jupyter notebook)
+and `firstinitiallastname_01.png`.  
 
 Data:
 ```
