@@ -21,5 +21,5 @@ to give the plot a title and an x and y label. Save this figure and include it
 in your pull request!
 5. Put the area of the curve on the plot somewhere as text using Matplotlib
 6. Use the Bayesian information criterion to justify which model (linear or cubic)
-is preferable
+is preferable.  Include this justification in your journal entry for the week.
 
