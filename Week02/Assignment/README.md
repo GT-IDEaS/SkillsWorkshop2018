@@ -1,10 +1,11 @@
-Problem 01: Fitting and Plotting
-================================
+Week 02 Assignment: Fitting and Plotting
+========================================
 
 Write a python program that uses the `x, y` data below to complete the tasks in
 parts 1-6 below. Once you have completed these parts, submit a pull request
 with your script and figure using the same naming convention as last week:
-`firstinitiallastname_01.py` and `firstinitiallastname_01.png`.  
+`firstinitiallastname_01.py` (or `.ipynb` if you're using a Jupyter notebook)
+and `firstinitiallastname_01.png`.  
 
 Data:
 ```
@@ -21,5 +22,5 @@ to give the plot a title and an x and y label. Save this figure and include it
 in your pull request!
 5. Put the area of the curve on the plot somewhere as text using Matplotlib
 6. Use the Bayesian information criterion to justify which model (linear or cubic)
-is preferable
+is preferable.  Include this justification in your journal entry for the week.
 

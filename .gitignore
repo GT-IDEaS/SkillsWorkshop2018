@@ -113,3 +113,6 @@ ENV/
 *.toc
 _minted-*
 *.swp
+
+# Dom's stuff
+dsirianni*
