@@ -20,10 +20,6 @@ def fib(x):
 		print("Max sum of even valued terms of the fibonacci series is " + str(counter)+"!")	
 
 			
-	
-	
-
-
-		
+			
 #fib(32)
 #fib(33)			

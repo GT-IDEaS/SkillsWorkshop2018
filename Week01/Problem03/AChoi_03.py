@@ -14,5 +14,3 @@ def prime():
 		
 
 prime()
-
-

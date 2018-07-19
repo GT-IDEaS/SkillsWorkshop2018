@@ -22,12 +22,9 @@ def palindrome():
 				numbySet.append(item/item2)
 			if len(numbySet) >= 2:
 				break
-
-					
+	
 	print(numbySet)
 				
-
-
 
 
 

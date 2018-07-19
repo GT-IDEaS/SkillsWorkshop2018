@@ -12,25 +12,7 @@ def smallestMult():
 	num = int(num)
 	#print(List)
 	print(num)		
-				
-
-		 
-
-
-
-
-
-	'''
-	for i in range(2,11):
-		i**
-			if num%i != 0:
-				num = num*i
-				print(i)
-				print(num)
-	print(num)	
-	'''	
-
-
+			
 
 
 
