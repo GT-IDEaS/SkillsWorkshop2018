@@ -20,4 +20,4 @@ def max_factors(num):
     return factors.pop()
 
     
-print max_factors(600851475143)
+print max_factors(6*11-1)
