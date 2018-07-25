@@ -17,7 +17,7 @@ along with the steps provided
 [here](https://help.github.com/articles/syncing-a-fork/).  Once your `local`
 repository has been updated, you can push these updates to your fork with
 ```
-$ git push --force upstream master
+$ git push --force origin master
 ```
 **Note 01**: The `$` in the above line and in the code snippets in the "Syncing a
 fork" article indicate the terminal prompt, and should not be typed by you.
