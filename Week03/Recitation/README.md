@@ -1,4 +1,4 @@
-Week04: Recitation Materials
+Week03: Recitation Materials
 ============================
 
 This directory contains materials for use during our weekly hands-on recitation
