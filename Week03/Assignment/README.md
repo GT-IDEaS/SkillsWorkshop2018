@@ -11,12 +11,13 @@ script or Jupyter notebook, named according to our standard convention as
 Sections from which to choose challenge problems (one each!): 
 
 1. [Combining DataFrames with
-Pandas](http://www.datacarpentry.org/python-ecology-lesson/04-merging-data/)
+Pandas](http://datacarpentry.org/python-ecology-lesson/05-merging-data/index.html)
 
 2.  [Data Workflows and
-Automation](http://www.datacarpentry.org/python-ecology-lesson/05-loops-and-functions/)
+Automation](http://datacarpentry.org/python-ecology-lesson/06-loops-and-functions/index.html)
 
 3. [Data Ingest & Visualization - Matplotlib &
-Pandas](http://www.datacarpentry.org/python-ecology-lesson/07-putting-it-all-together/)
+Pandas](http://datacarpentry.org/python-ecology-lesson/08-putting-it-all-together/index.html)
+
 
 

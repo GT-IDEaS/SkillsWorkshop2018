@@ -24,21 +24,21 @@ installed several ways detailed
 ### Relevant Sections of Data Carpentry's "Python for Ecologists" Lesson
 
 1. [Starting with
-Data](http://www.datacarpentry.org/python-ecology-lesson/01-starting-with-data/)
+Data](http://datacarpentry.org/python-ecology-lesson/02-starting-with-data/index.html)
 
 2. [Indexing, Slicing, and Subsetting DataFrames in
-Python](http://www.datacarpentry.org/python-ecology-lesson/02-index-slice-subset/)
+Python](http://datacarpentry.org/python-ecology-lesson/03-index-slice-subset/index.html)
 
 3. [Data Types and
-Formats](http://www.datacarpentry.org/python-ecology-lesson/03-data-types-and-format/)
+Formats](http://datacarpentry.org/python-ecology-lesson/04-data-types-and-format/index.html)
 
 4. [Combining DataFrames with
-Pandas](http://www.datacarpentry.org/python-ecology-lesson/04-merging-data/) 
+Pandas](http://datacarpentry.org/python-ecology-lesson/05-merging-data/index.html)
 
 5.  [Data Workflows and
-Automation](http://www.datacarpentry.org/python-ecology-lesson/05-loops-and-functions/)
+Automation](http://datacarpentry.org/python-ecology-lesson/06-loops-and-functions/index.html)
 
 6. [Data Ingest & Visualization - Matplotlib &
-Pandas](http://www.datacarpentry.org/python-ecology-lesson/07-putting-it-all-together/)
+Pandas](http://datacarpentry.org/python-ecology-lesson/08-putting-it-all-together/index.html)
 
 
