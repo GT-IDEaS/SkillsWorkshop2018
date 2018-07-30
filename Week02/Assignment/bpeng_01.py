@@ -26,6 +26,9 @@ parameter = sp.polyfit(x,y,3)
 plt.scatter(x,y,c=color)
 plt.plot(x,x*slope+intercept, c = "black")
 plt.plot(x,parameter[0]*x**3+parameter[1]*x**2+parameter[2]*x+parameter[3], c ='red')
+plt.xlabel('x axis')
+plt.ylabel('y axis')
+plt.title('title')
 plt.legend(['linear fit','cubic fit','orignal data'],loc = 4)
 
 plt.text(x[4], y[1], 
