@@ -1,0 +1,27 @@
+Problem 03: Largest Prime Factor
+================================
+a = []  
+
+f=2
+while n % f == 0: #divide out all the even factors
+    a.append(f)
+    n/=f
+
+f+=1 # onto next factor which must be odd (incrament f by 2 after this point
+while f * f <= n: # largest factor f cannot be greater than sqrt(n)
+    if (n % f == 0):
+        a.append(f)
+        n /= f
+    else:
+        f += 2   
+if n!=1: # account for the edge case/last remaining prime after all division 
+    a.append(n) 
+
+#we know the value in a increases because we continually incrament f.  The only thing we don't know is if the last value(when we append n in the above edge case) is greater than or less than the last f value appended
+if a[-1]<a[-2]:
+    print(a[-2])
+else:
+    print(a[-1])
+
+# also please note I need a little more time to work through number four - I don't want to resort to brute force/I want to be more efficient.  Will put in a solution soon!
+

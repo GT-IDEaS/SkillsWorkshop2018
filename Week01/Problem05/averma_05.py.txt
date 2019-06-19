@@ -1,0 +1,17 @@
+Problem 05: Smallest Multiple
+=============================
+
+x = 1
+y = 1
+while y <= 20:
+    if x % y == 0:
+        count += 1
+        y += 1
+        if count = 20:
+            print(x)
+            break
+    else:
+        count = 0
+        x += 1
+        y = 1
+
